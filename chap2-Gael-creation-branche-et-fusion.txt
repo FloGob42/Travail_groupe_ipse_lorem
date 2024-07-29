@@ -1,0 +1,3 @@
+Cette commande permet de créer une branche et de la basculer sur celle-ci.
+git checkout -b <nom_de_la_branche>
+
